@@ -25,3 +25,8 @@ pressurization and main oxidizer valves. </p>
   
    img: images of circuit/footprints for github display 
 </p>
+
+<h2>3D Model: </h2>
+
+<img src="img/H0001-Solenoid-Driver-TOP.jpg">
+<img src="img/H0001-Solenoid-Driver-BOTTOM.jpg">
