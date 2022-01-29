@@ -30,3 +30,11 @@ pressurization and main oxidizer valves. </p>
 
 <img src="img/H0001-Solenoid-Driver-TOP.jpg">
 <img src="img/H0001-Solenoid-Driver-BOTTOM.jpg">
+
+<h2>Schematic:</h2>
+
+<h3>Solenoid Driver</h3>
+<img src='img/Solenoid-schematic.png'>
+
+<h3>Signals and Power</h3>
+<img src='img/Connectors.png'>
